@@ -1,0 +1,52 @@
+
+
+.para {
+  background-color: #212177;
+  color:white ;
+  font-style: italic;
+  font-size: larger;
+  margin: 20px;
+  border: 5px solid rgba(105, 193, 225, 0.582);
+  padding: 10px;
+}
+
+.ectd {
+  padding: 20px;
+}
+
+.mail{
+  margin-left:  20px; ;
+}
+.mail:hover{
+  color:white;
+  background-color: #212177;
+
+}
+
+button{
+  padding: 5px;
+  margin: 20px;
+  border: none;
+  background-color: rgb(33, 33, 119);
+  color: white;
+  border-radius: 5px;
+}
+
+.background {
+
+  background-image: url(../images/windows.jpg);
+  background-repeat: repeat;
+  box-sizing: contain;
+
+}
+
+.first h2{
+  color: red;
+}
+.second h2 {
+  color: green;
+}
+
+.divp {
+  color: yellow;
+}
